@@ -77,6 +77,7 @@ const styles = StyleSheet.create({
         "marginTop": 5,
         "fontWeight": "400",
         "marginHorizontal": 10,
-        "paddingHorizontal": 2
+        "paddingHorizontal": 2,
+        "fontFamily": "monospace"
     }
 });
